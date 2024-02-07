@@ -15,25 +15,26 @@ Welcome to the Learning and Revision Resource Git! This repository has been crea
 
 ## Structure
 The repository is organized into folders, each dedicated to a specific category or subject. The structure aims to make it easy for users to navigate and locate relevant information. Please adhere to the existing structure when adding or updating content.
-- /SQL
+- **/SQL**
   - Basics/
   - Advanced/
   - Queries/
--MongoDb
-  -Fundamentals/
-- /Python
+- **MongoDB**
+  - Fundamentals/
+- **/Python**
   - Fundamentals/
   - Libraries/
--Django
-  -Fundamentals/
--java
-  -Fundamentals/
--springboot
-  -Fundamentals/
-- /WebDevelopment
+- **Django**
+  - Fundamentals/
+- **Java**
+  - Fundamentals/
+- **Spring Boot**
+  - Fundamentals/
+- **/WebDevelopment**
   - HTML/
   - CSS/
   - JavaScript/
+
 
 
 ## Usage
